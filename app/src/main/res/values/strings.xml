@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UBER_CLONE</string>
+    <string name="app_id">mW0HeDtluFmi3V5LHDBe8Thw6g9ZGZp0mxOuu94d</string>
+    <string name="client_key">CtXQ2pDpyWPubFVlbDKT0I8mCZMCgoha8wJfOa8T</string>
+    <string name="server_url">https://parseapi.back4app.com/</string>
+    <string name="title_activity_passenger">Map</string>
+    <string name="title_activity_view_location_maps">Map</string>
+</resources>
